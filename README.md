@@ -1,4 +1,3 @@
-# Sentiment140-Tweet-Sentiment-Classification-end-to-end-NLP-Machine-Learning-notebook-
 # 💬 Sentiment140 Tweet Sentiment Classification
 An **end-to-end NLP Machine Learning notebook** (Jupyter/Colab) that classifies tweets into **Negative / Positive / Neutral** using the **Sentiment140** dataset.  
 Classic features (**Bag of Words**, **TF-IDF**) + modern **LLM embeddings (Qwen3-Embedding)** — with clear evaluation plots and metrics. ✅
@@ -15,11 +14,22 @@ Team:
 ## 🔗 Quick Access
 
 [![🧠 Embeddings](https://img.shields.io/badge/Qwen_Embeddings-.npy-6A5ACD?style=for-the-badge)](./qwen_embeddings.npy)
-[![📂 Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/Sentiment140-Tweet-Sentiment-Classification-end-to-end-NLP-Machine-Learning-notebook-)
+[![📂 Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/moalawfi/tweet-sentiment-analysis)
 
 
 ---
 
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/class_distribution.png" width="32%" alt="Class distribution" />
+  <img src="assets/roc_linearsvc_tfidf.png" width="32%" alt="ROC curve, LinearSVC (TF-IDF)" />
+  <img src="assets/confusion_qwen_logreg.png" width="32%" alt="Confusion matrix, Logistic Regression (Qwen embeddings)" />
+</p>
+<p align="center"><sub>Class distribution · ROC curve (LinearSVC, TF-IDF) · Confusion matrix (Logistic Regression, Qwen embeddings)</sub></p>
+
+---
 
 ## 🧠 How It Works
 
@@ -176,7 +186,7 @@ Open: `ML_PROJECT (1).ipynb`
 **Mohammed Alawfi**
 📍 Madinah, Saudi Arabia
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/963n)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/moalawfi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/mohammed-a-3913a5378/)
 
 
